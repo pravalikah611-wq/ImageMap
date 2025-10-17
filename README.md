@@ -47,6 +47,7 @@ href="https://www.google.com/search?q=cup+of+coffee">
 </html>
 ```
 ## OUTPUT
-https://github.com/Moni-25/ImageMap.git
+![alt text](image.png)
+![alt text](image-1.png)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
